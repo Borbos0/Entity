@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <EntityForm/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import EntityForm from './components/EntityForm.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    EntityForm
   }
 }
 </script>
