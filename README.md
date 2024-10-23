@@ -9,4 +9,4 @@ npm run serve
 
 ### Описание
 
-in prossesse
+in process
